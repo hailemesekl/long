@@ -1,2 +1,2 @@
 console.log("confi.js");
-console.log("vesrion 6");
+console.log("vesrion 9");

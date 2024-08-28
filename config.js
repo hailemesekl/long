@@ -1,2 +1,2 @@
 console.log("confi.js");
-console.log("vesrion 1");
+console.log("vesrion 2");
